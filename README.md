@@ -1,0 +1,2 @@
+# config
+⚙️ Simple configuration parser
